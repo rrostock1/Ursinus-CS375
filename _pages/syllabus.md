@@ -184,7 +184,7 @@ schedule:
     title: "Version Control with git, Software Project Brainstorm and Team Formations"
     readings:
       - rtitle: "Version Control with git"
-        rlink: "./files/software-engineering/02-git-oop.pdf""
+        rlink: "./files/software-engineering/02-git-oop.pdf"
       - rtitle: "MMM Chapter 16"
         rlink: false
     deliverables:
@@ -200,7 +200,6 @@ schedule:
       - dtitle: "Homework Assignment: git Handed Out"
         dlink: "./Assignments/git"
         points: 100
-
 
 university:
   semester: "Spring"
