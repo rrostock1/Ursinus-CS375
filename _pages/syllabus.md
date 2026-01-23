@@ -165,8 +165,11 @@ schedule:
   - week: "0"
     date: "0"
     title: "Course Overview and Introduction to Software Engineering"
-    link: "../Ursinus-CS375-Overview"
-    link: "./files/software-engineering/01-introduction.pdf"
+    readings:
+      - rtitle: "Course Overview"
+        rlink: "../Ursinus-CS375-Overview"
+      - rtitle: "Introduction to Software Enginnering"
+        rlink: "./files/software-engineering/01-introduction.pdf"
     deliverables:
       - dtitle: "Homework Assignment: Warmup Handed Out"
         dlink: "./Assignments/Warmup"
@@ -179,7 +182,11 @@ schedule:
   - week: "1"
     date: "0"
     title: "Version Control with git, Software Project Brainstorm and Team Formations"
-    link: "./files/software-engineering/02-git-oop.pdf"
+    readings:
+      - rtitle: "Version Control with git"
+        rlink: "./files/software-engineering/02-git-oop.pdf""
+      - rtitle: "MMM Chapter 16"
+        rlink: false
     deliverables:
       - dtitle: "Homework Assignment: Warmup Due"
         dlink: "./Assignments/Warmup"
@@ -193,9 +200,8 @@ schedule:
       - dtitle: "Homework Assignment: git Handed Out"
         dlink: "./Assignments/git"
         points: 100
-    readings:
-      - rtitle: "MMM Chapter 16"
-        rlink: false
+
+
 university:
   semester: "Spring"
   academicyear: "2024-25"
