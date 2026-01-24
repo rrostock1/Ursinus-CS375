@@ -165,11 +165,10 @@ schedule:
   - week: "0"
     date: "0"
     title: "Course Overview and Introduction to Software Engineering"
+    link: "./files/cs375_week1.pdf"
     readings:
       - rtitle: "Course Overview"
         rlink: "../Ursinus-CS375-Overview"
-      - rtitle: "Introduction to Software Enginnering"
-        rlink: "./files/software-engineering/01-introduction.pdf"
     deliverables:
       - dtitle: "Homework Assignment: Warmup Handed Out"
         dlink: "./Assignments/Warmup"
