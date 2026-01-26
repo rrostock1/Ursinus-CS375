@@ -192,6 +192,9 @@ schedule:
         dlink: "./Assignments/Warmup"
         points: 10
         submission_types: "noupload"
+      - dtitle: "Participation: Pre-Assessment Due"
+        dlink: "./Assignments/Participation/PreAssessment"
+        points: 10
       - dtitle: "Software Project Proposal: Project Proposal Handed Out"
         dlink: "./Project/Proposal"
         points: 100
@@ -205,34 +208,64 @@ schedule:
     title: "Requirements Engineering & Team Workflows"
     link: "./files/cs375_week3.pdf"
     deliverables:
-      - dtitle: "Homework Assignment: Warmup Due"
-        dlink: "./Assignments/Warmup"
-        points: 10
-        submission_types: "noupload"
-      - dtitle: "Software Project Proposal: Project Proposal Handed Out"
+      - dtitle: "Software Requirements Report: Requirements Document Handed Out"
+        dlink: "./Project/Requirements"
+        points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Project/project-requirements.md"
+      - dtitle: "Software Project Proposal: Project Proposal Due"
         dlink: "./Project/Proposal"
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Project/project-proposal.md"
-      - dtitle: "Homework Assignment: git Handed Out"
-        dlink: "./Assignments/git"
-        points: 100
   - week: "3"
     date: "0"
     title: "Requirements Validation & Backlogs"
     link: "./files/cs375_week4.pdf"
+    deliverables:
+      - dtitle: "Homework Assignment: git Due"
+        dlink: "./Assignments/git"
+        points: 100
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Handed Out"
+        dlink: "./Assignments/StandupReflection"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/assignment-standupreflection.md"
   - week: "4"
     date: "0"
     title: "Software Architecture"
     link: "./files/cs375_week5.pdf"
+    deliverables:
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
+        dlink: "./Assignments/StandupReflection"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
+      - dtitle: "Participation: First Self-Assessment Handed Out"
+        dlink: "./Assignments/Participation/SelfAssessment"
+        points: 10
+        submission_types: "written"
   - week: "5"
     date: "0"
     title: "Detailed Design & Design Principles"
     link: "./files/cs375_week6.pdf"
+    deliverables:
+      - dtitle: "Software Design: Design Report Handed Out"
+        dlink: "./Project/Design"
+        points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Project/project-design.md"
+
   - week: "6"
     date: "0"
     title: "Industry-Style Design Review"
     link: "./files/cs375_week7.pdf"
+    deliverables:
+      - dtitle: "Software Design: Design Report Due"
+        dlink: "./Project/Design"
+        points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Project/project-design.md"
   - week: "7"
     date: "0"
     title: "Implementation & Professional Coding Practices"
