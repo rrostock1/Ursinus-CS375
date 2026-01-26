@@ -10,12 +10,7 @@ info:
   goals:
     - "To demonstrate understanding of the referenced reading excerpt
     - "To summarize your understanding of what happened, what failures in software engineering processes may have contributed to the undesirable outcome, and what practices could have been implemented or improved during the software engineering process to prevent or reduce the risk of that outcome."
-  reading:
-    ![Part 1](../files/the-overdose/TheOverdosePart1.pdf)
-    ![Part 2](../files/the-overdose/TheOverdosePart2.pdf)
-    ![Part 3](../files/the-overdose/TheOverdosePart3.pdf)
-    ![Part 4](../files/the-overdose/TheOverdosePart4.pdf)
-    ![Part 5](../files/the-overdose/TheOverdosePart5.pdf)
+
   rubric:
     - weight: 100
       description: Summary
@@ -32,7 +27,14 @@ tags:
 
 ### What to Do
 
-In this summarization and reflection on the reading excerpt, you are to comment on the following areas:
+Read the following excerpt and comment as described below.
+![The Overdose Part 1](../files/the-overdose/TheOverdosePart1.pdf)
+![The Overdose Part 2](../files/the-overdose/TheOverdosePart2.pdf)
+![The Overdose Part 3](../files/the-overdose/TheOverdosePart3.pdf)
+![The Overdose Part 4](../files/the-overdose/TheOverdosePart4.pdf)
+![The Overdose Part 5](../files/the-overdose/TheOverdosePart5.pdf)
+
+In your summarization and reflection on the reading excerpt, you are to comment on the following areas:
 
 1. Summarize the incident described therein - what happened, how and why did it happen and what were the consequences?
 2. What factors (software or human factors) contributed to the failure, or to how the system did not perform as intended?
