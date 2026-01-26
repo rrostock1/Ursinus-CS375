@@ -215,6 +215,8 @@ schedule:
         rubricpath: "_pages/Project/project-requirements.md"
       - dtitle: "Written Assignement: The Overdose Handed Out"
         dlink: "./Assignments/Overdose"
+        points: 100
+        submission_types: "written"
       - dtitle: "Software Project Proposal: Project Proposal Due"
         dlink: "./Project/Proposal"
         points: 100

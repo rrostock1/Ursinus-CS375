@@ -3,12 +3,11 @@ layout: assignment
 permalink: /Assignments/Overdose
 title: "CS375: Software Engineering - Reading Review and Reflections: The Overdose"
 
-
 info:
   coursenum: CS375
   points: 10
   goals:
-    - "To demonstrate understanding of the referenced reading excerpt
+    - "To demonstrate understanding of the referenced reading excerpt"
     - "To summarize your understanding of what happened, what failures in software engineering processes may have contributed to the undesirable outcome, and what practices could have been implemented or improved during the software engineering process to prevent or reduce the risk of that outcome."
 
   rubric:
@@ -16,13 +15,12 @@ info:
       description: Summary
       preemerging: Understanding of the excerpt and how it pertains to the topics we have discussed in this class is lacking, unclear, or not demonstrated.
       beginning: The summarization and reflection shows a partial understanding of the excerpt and how it pertains to the topics discussed in our class, however, they do not thoughtfully comment how on what missteps may have contributed to the outcome or how better practices may have prevented it.
-      progressing: The self reflection indicates a summary of individual progress in the prior sprint that does not overlap with the contributions of another.  The self reflection indicates a summary of individual activities for the upcoming sprint that overlaps in minor ways with the contributions of another that can be resolved in a stand up meeting.  The reflection includes a thougtful discussion of technical challenges and areas for personal development. 
+      progressing: The self reflection indicates a summary of individual progress in the prior sprint that does not overlap with the contributions of another.  The self reflection indicates a summary of individual activities for the upcoming sprint that overlaps in minor ways with the contributions of another that can be resolved in a stand up meeting.  The reflection includes a thougtful discussion of technical challenges and areas for personal development.
       proficient: The self reflection indicates a summary of individual progress in the prior sprint that does not overlap with the contributions of another.  The self reflection indicates a summary of individual activities for the upcoming sprint that does not overlap with the contributions of another.  The reflection includes a thougtful discussion of technical challenges and areas for personal development.
 
 tags:
   - project
   - selfreflection
-
 ---
 
 ### What to Do
