@@ -207,9 +207,6 @@ schedule:
     date: "0"
     title: "Requirements Engineering & Team Workflows"
     link: "./files/cs375_week3.pdf"
-    readings:
-      - rtitle: "The Overdose"
-        rlink: "./files/the-overdose"
     deliverables:
       - dtitle: "Software Requirements Report: Requirements Document Handed Out"
         dlink: "./Project/Requirements"
