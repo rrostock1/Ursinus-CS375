@@ -9,6 +9,17 @@ info:
   goals:
     - "To demonstrate understanding of the referenced reading excerpt"
     - "To summarize your understanding of what happened, what failures in software engineering processes may have contributed to the undesirable outcome, and what practices could have been implemented or improved during the software engineering process to prevent or reduce the risk of that outcome."
+  readings:
+    - rtitle: The Overdose Part1
+      rlink: ../files/the-overdose/TheOverdosePart1.pdf
+    - rtitle: The Overdose Part2
+      rlink: ../files/the-overdose/TheOverdosePart2.pdf
+    - rtitle: The Overdose Part3
+      rlink: ../files/the-overdose/TheOverdosePart3.pdf
+    - rtitle: The Overdose Part4
+      rlink: ../files/the-overdose/TheOverdosePart4.pdf
+    - rtitle: The Overdose Part5
+      rlink: ../files/the-overdose/TheOverdosePart5.pdf
 
   rubric:
     - weight: 100
@@ -25,12 +36,7 @@ tags:
 
 ### What to Do
 
-Read the following excerpt and comment as described below.
-![The Overdose Part 1](../files/the-overdose/TheOverdosePart1.pdf)
-![The Overdose Part 2](../files/the-overdose/TheOverdosePart2.pdf)
-![The Overdose Part 3](../files/the-overdose/TheOverdosePart3.pdf)
-![The Overdose Part 4](../files/the-overdose/TheOverdosePart4.pdf)
-![The Overdose Part 5](../files/the-overdose/TheOverdosePart5.pdf)
+Read the excerpt "The Overdose" from Dr. Robert Wachter’s book The Digital Doctor: Hope, Hype, and Harm at the Dawn of Medicine’s Computer Age. and summarize and reflect as described below.
 
 In your summarization and reflection on the reading excerpt, you are to comment on the following areas:
 
