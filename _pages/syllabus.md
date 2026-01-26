@@ -207,12 +207,17 @@ schedule:
     date: "0"
     title: "Requirements Engineering & Team Workflows"
     link: "./files/cs375_week3.pdf"
+    readings:
+      - rtitle: "The Overdose"
+        rlink: "./files/the-overdose"
     deliverables:
       - dtitle: "Software Requirements Report: Requirements Document Handed Out"
         dlink: "./Project/Requirements"
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Project/project-requirements.md"
+      - dtitle: "Written Assignement: The Overdose Handed Out"
+        dlink: "./Assignments/Overdose"
       - dtitle: "Software Project Proposal: Project Proposal Due"
         dlink: "./Project/Proposal"
         points: 100
@@ -282,6 +287,10 @@ schedule:
     date: "0"
     title: "Maintenance, Refactoring & Technical Debt"
     link: "./files/cs375_week11.pdf"
+    deliverables:
+      - dtitle: "Homework Assignment: The Overdose Due"
+        dlink: "./Assignments/overdose"
+        points: 100
   - week: "11"
     date: "0"
     title: "DevOps, Deployment, Reliability & AI in Software Engineering"
