@@ -26,12 +26,12 @@ info:
       description: Summary
       preemerging: Understanding of the excerpt and how it pertains to the topics we have discussed in this class is lacking, unclear, or not demonstrated.
       beginning: The summarization and reflection shows a partial understanding of the excerpt and how it pertains to the topics discussed in our class, however, they do not thoughtfully comment how on what missteps may have contributed to the outcome or how better practices may have prevented it.
-      progressing: The self reflection indicates a summary of individual progress in the prior sprint that does not overlap with the contributions of another.  The self reflection indicates a summary of individual activities for the upcoming sprint that overlaps in minor ways with the contributions of another that can be resolved in a stand up meeting.  The reflection includes a thougtful discussion of technical challenges and areas for personal development.
-      proficient: The self reflection indicates a summary of individual progress in the prior sprint that does not overlap with the contributions of another.  The self reflection indicates a summary of individual activities for the upcoming sprint that does not overlap with the contributions of another.  The reflection includes a thougtful discussion of technical challenges and areas for personal development.
+      progressing: The summarization and reflection shows an advanced or mostly complete understanding of the excerpt and how it pertains to the topics discussed in our class, and also shows an attempt to thoughtfully comment on the underlying reasons for the error that occured as well as how it could have been prevented through better engineering practices.
+      proficient: The summarization and reflection shows a full understanding of the excerpt and how it pertains to the topics discussed in our class, and also includes insightful comments on the underlying reasons for the error that occured as well as how it could have been prevented through better engineering practices.
 
 tags:
-  - project
-  - selfreflection
+  - reading
+  - writing
 ---
 
 ### What to Do
@@ -45,4 +45,4 @@ In your summarization and reflection on the reading excerpt, you are to comment 
 3. What failures during the software engineering process may have contributed to the situation that eventually happened?
 4. What could have been done differently that may have lessened the likelihood of such an incident taking place?
 
-The expectation is that this summarization and reflection should be 2-3 pages in length.
+The expectation is that this summarization and reflection should be at least three (3) pages in length.

@@ -278,6 +278,12 @@ schedule:
     date: "0"
     title: "Software Testing Fundamentals"
     link: "./files/cs375_week9.pdf"
+    deliverables:
+      - dtitle: "Software Test Plan: Test Plan Handed Out"
+        dlink: "./Project/TestPlan"
+        points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Project/project-testplan.md"
   - week: "9"
     date: "0"
     title: "Automation & Continuous Integration"
@@ -290,6 +296,10 @@ schedule:
       - dtitle: "Homework Assignment: The Overdose Due"
         dlink: "./Assignments/overdose"
         points: 100
+      - dtitle: "Software Documentation: Final Report Handed Out"
+        dlink: "./Project/DocumentationFinalReport"
+        points: 100
+        submission_types: "written"
   - week: "11"
     date: "0"
     title: "DevOps, Deployment, Reliability & AI in Software Engineering"
@@ -300,15 +310,14 @@ schedule:
   - week: "13"
     date: "0"
     title: "Project Workshop"
+  - week: "14"
+    date: "0"
+    title: "Project Workshop"
     deliverables:
       - dtitle: "Software Documentation: Final Report Due"
         dlink: "./Project/DocumentationFinalReport"
         points: 100
         submission_types: "written"
-  - week: "14"
-    date: "0"
-    title: "Project Workshop"
-    deliverables:
       - dtitle: "Participation: Second Self-Assessment Due"
         dlink: "./Assignments/Participation/SelfAssessment"
         points: 10
@@ -327,68 +336,39 @@ schedule:
 university:
   semester: "Spring"
   academicyear: "2025-26"
-  fall:
-    - kname: "Add Deadline"
-      kdate: "2024/09/6"
-      kdisplay: true
-    - kname: "Mid Semester Grades Posted"
-      kdate: "2024/10/11"
-      kdisplay: false
-    - kname: "Drop with a W Deadline"
-      kdate: "2024/11/19"
-      kdisplay: true
-    - kname: "Reading Day"
-      kdate: "2024/12/10"
-      kdisplay: true
-    - kname: "Finals Week Begins"
-      kdate: "2024/12/11"
-      kdisplay: false
-    - kname: "Finals Week Ends"
-      kdate: "2024/12/17"
-      kdisplay: false
+
   spring:
     - kname: "Add Deadline"
-      kdate: "2025/02/4"
+      kdate: "2026/02/6"
       kdisplay: true
     - kname: "Mid Semester Grades Posted"
-      kdate: "2025/03/7"
+      kdate: "2026/03/13"
       kdisplay: false
     - kname: "Drop with a W Deadline"
-      kdate: "2025/04/18"
+      kdate: "2026/04/21"
       kdisplay: true
     - kname: "CoSA"
-      kdate: "2025/04/23"
+      kdate: "2026/04/29"
       kdisplay: true
     - kname: "Reading Day"
-      kdate: "2025/05/8"
+      kdate: "2026/05/13"
       kdisplay: false
     - kname: "Finals Week Begins"
-      kdate: "2025/05/09"
+      kdate: "2026/05/14"
       kdisplay: false
     - kname: "Finals Week Ends"
-      kdate: "2025/05/15"
-      kdisplay: false
-    - kname: "Baccalaureate"
-      kdate: "2025/05/16"
+      kdate: "2026/05/20"
       kdisplay: false
     - kname: "Commencement"
-      kdate: "2025/05/17"
+      kdate: "2026/05/22"
       kdisplay: false
-  fallholidays:
-    - date: "2024/10/14"
-    - date: "2024/10/15"
-    - date: "2024/10/16"
-    - date: "2024/11/27"
-    - date: "2024/11/28"
-    - date: "2024/11/29"
   springholidays:
-    - date: "2025/01/20"
-    - date: "2025/01/21"
-    - date: "2025/03/10"
-    - date: "2025/03/11"
-    - date: "2025/03/12"
-    - date: "2025/03/13"
-    - date: "2025/03/14"
+    - date: "2026/01/19"
+    - date: "2026/03/16"
+    - date: "2026/03/17"
+    - date: "2026/03/18"
+    - date: "2026/03/19"
+    - date: "2026/03/20"
 ---
 
 ## Homework
