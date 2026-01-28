@@ -2,14 +2,10 @@ name: Update ical
 
 on:
   push:
-    branches:
-      - gh-pages
     paths:
       - "_pages/syllabus.md"
       - "files/*.ics"
   pull_request:
-    branches:
-      - gh-pages
     paths:
       - "_pages/syllabus.md"
       - "files/*.ics"
