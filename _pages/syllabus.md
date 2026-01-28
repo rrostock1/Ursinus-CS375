@@ -281,7 +281,7 @@ schedule:
   - week: "8"
     date: "0"
     title: "Implementation & Professional Coding Practices"
-    link: "./files/cs375_week8.pdf"
+    link: "./files/cs375_week9.pdf"
     deliverables:
       - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
         dlink: "./Assignments/StandupReflection"
@@ -296,7 +296,7 @@ schedule:
   - week: "9"
     date: "0"
     title: "Software Testing Fundamentals"
-    link: "./files/cs375_week9.pdf"
+    link: "./files/cs375_week10.pdf"
     deliverables:
       - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
         dlink: "./Assignments/StandupReflection"
@@ -311,7 +311,7 @@ schedule:
   - week: "10"
     date: "0"
     title: "Automation & Continuous Integration"
-    link: "./files/cs375_week10.pdf"
+    link: "./files/cs375_week11.pdf"
     deliverables:
       - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
         dlink: "./Assignments/StandupReflection"
@@ -321,7 +321,7 @@ schedule:
   - week: "11"
     date: "0"
     title: "Maintenance, Refactoring & Technical Debt"
-    link: "./files/cs375_week11.pdf"
+    link: "./files/cs375_week12.pdf"
     deliverables:
       - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
         dlink: "./Assignments/StandupReflection"
@@ -340,7 +340,7 @@ schedule:
   - week: "12"
     date: "0"
     title: "DevOps, Deployment, Reliability & The Role of AI in Software Engineering"
-    link: "./files/cs375_week12.pdf"
+    link: "./files/cs375_week13.pdf"
     deliverables:
       - dtitle: "Participation: Second Self-Assessment Handed Out"
         dlink: "./Assignments/Participation/SelfAssessment"
@@ -360,9 +360,6 @@ schedule:
   - week: "14"
     date: "0"
     title: "Project Workshop"
-  - week: "15"
-    date: "0"
-    title: "Project Workshop"
     deliverables:
       - dtitle: "Software Documentation: Final Report Due"
         dlink: "./Project/DocumentationFinalReport"
@@ -372,7 +369,7 @@ schedule:
         dlink: "./Assignments/Participation/SelfAssessment"
         points: 10
         submission_types: "written"
-  - week: "16"
+  - week: "15"
     date: "0"
     reschedule: "5/12/2026"
     title: "Project Workshop"
