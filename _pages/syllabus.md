@@ -13,7 +13,7 @@ info:
   ical: files/CS375.ics
   course_prerequisites: "CS174"
   course_start_date: "2026/01/26"
-  course_end_date: "2026/05/12"
+  course_end_date: "2026/05/17"
   course_description: "Topics integral to the design, implementation and testing of a medium-scale software system combined with the practical experience of implementing such a project as a member of a programming team. Use of the Unified Modeling Language (UML) for software design. Prerequisite: A grade of C– or higher in CS-271. Offered in the spring semester. Three hours per week. Four semester hours. (Q.)"
   welcome_message: "Welcome to CS375!"
   questions: |
@@ -44,9 +44,9 @@ info:
       mendtime: "TBD"
       mroom: "TBD"
   finalexam:
-    - fdate: "2025/05/10"
-      fstarttime: "1:00 PM"
-      fendtime: "4:00 PM"
+    - fdate: "2026/05/14"
+      fstarttime: "7:00 PM"
+      fendtime: "9:40 PM"
       froom: "Regular Class Period"
   flexible_submission_policy: 'In the absence of <a href="#accommodations">accommodations</a> arranged in advance with the instructor or college, all assignments are due at 11:59 PM Eastern Time on the date(s) stated on the schedule.  With prior permission and a reasonable first draft submission by the deliverable deadline, any student may request a three day extension on any deliverable, as often as needed.  Assignments will be accepted without prior permission following the original deadline, or, if requested, following the three-day extension deadline, with a points deduction of 10% per day if submitted before 11:59 PM Eastern Time on the day submitted.  If a student adds the course late, deliverables due prior to or on the day of that student''s registration will be due twice the number of days following the first day of the semester that they registered (for example, a student who registers on the third day of the semester shall receive six days to submit assignments from the first three days, and then the remainder of this policy takes effect for those and for all other deliverables).  Under no circumstances (including accommodations) can late work be accepted after the final class meeting, nor during final exams week, nor after the exam.'
   late_penalty_per_period: 10
@@ -245,6 +245,11 @@ schedule:
         points: 10
         submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
+      - dtitle: "Software Requirements Report: Requirements Document Due"
+        dlink: "./Project/Requirements"
+        points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Project/project-requirements.md"
       - dtitle: "Participation: First Self-Assessment Handed Out"
         dlink: "./Assignments/Participation/SelfAssessment"
         points: 10
@@ -302,8 +307,14 @@ schedule:
         submission_types: "written"
   - week: "11"
     date: "0"
-    title: "DevOps, Deployment, Reliability & AI in Software Engineering"
+    title: "DevOps, Deployment, Reliability & The Role of AI in Software Engineering"
     link: "./files/cs375_week12.pdf"
+    deliverables:
+      - dtitle: "Software Test Plan: Test Plan Due"
+        dlink: "./Project/TestPlan"
+        points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Project/project-testplan.md"
   - week: "12"
     date: "0"
     title: "Project Workshop"
@@ -324,6 +335,7 @@ schedule:
         submission_types: "written"
   - week: "15"
     date: "0"
+    reschedule: "5/12/2026"
     title: "Project Workshop"
     deliverables:
       - dtitle: "Final Presentation: Code and Presentation Due"

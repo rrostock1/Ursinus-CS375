@@ -11,15 +11,15 @@ info:
     - "To summarize your understanding of what happened, what failures in software engineering processes may have contributed to the undesirable outcome, and what practices could have been implemented or improved during the software engineering process to prevent or reduce the risk of that outcome."
   readings:
     - rtitle: The Overdose Part1
-      rlink: ../files/the-overdose/TheOverdosePart1.pdf
+      rlink: https://ursinus.instructure.com/courses/21168/files/2760290
     - rtitle: The Overdose Part2
-      rlink: ../files/the-overdose/TheOverdosePart2.pdf
+      rlink: https://ursinus.instructure.com/courses/21168/files/2760291
     - rtitle: The Overdose Part3
-      rlink: ../files/the-overdose/TheOverdosePart3.pdf
+      rlink: https://ursinus.instructure.com/courses/21168/files/2760292
     - rtitle: The Overdose Part4
-      rlink: ../files/the-overdose/TheOverdosePart4.pdf
+      rlink: https://ursinus.instructure.com/courses/21168/files/2760293
     - rtitle: The Overdose Part5
-      rlink: ../files/the-overdose/TheOverdosePart5.pdf
+      rlink: https://ursinus.instructure.com/courses/21168/files/2760294
 
   rubric:
     - weight: 100

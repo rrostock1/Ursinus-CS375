@@ -2,10 +2,14 @@ name: Update ical
 
 on:
   push:
+    branches:
+      - gh-pages
     paths:
       - "_pages/syllabus.md"
       - "files/*.ics"
   pull_request:
+    branches:
+      - gh-pages
     paths:
       - "_pages/syllabus.md"
       - "files/*.ics"
@@ -24,9 +28,9 @@ jobs:
       - name: Install uuid
         run: pip install --upgrade uuid
       - name: Install frontmatter
-        run: pip install --upgrade python-frontmatter        
+        run: pip install --upgrade python-frontmatter
       - name: Install dateutil
-        run: pip install --upgrade python-dateutil         
+        run: pip install --upgrade python-dateutil
       - name: Build updated research output file
         run: curl -k https://raw.githubusercontent.com/BillJr99/Ursinus-Boilerplate-Code/main/course/syllabus2ical.py | python
       - name: Commit new ical file

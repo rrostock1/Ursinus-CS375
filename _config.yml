@@ -11,12 +11,11 @@ theme: jekyll-theme-slate
 title: "CS375"
 description: "Software Engineering"
 
-url                      : https://BillJr99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Ursinus-CS375-Spring2025" # the subpath of your site, e.g. "/blog"
+url: https://rrostock1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/Ursinus-CS375" # the subpath of your site, e.g. "/blog"
 
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
-
