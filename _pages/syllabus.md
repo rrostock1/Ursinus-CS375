@@ -265,11 +265,11 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Project/project-design.md"
-  - week: "7"
+  - week: "8"
     date: "0"
     title: "Implementation & Professional Coding Practices"
     link: "./files/cs375_week8.pdf"
-  - week: "8"
+  - week: "9"
     date: "0"
     title: "Software Testing Fundamentals"
     link: "./files/cs375_week9.pdf"
@@ -279,11 +279,11 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Project/project-testplan.md"
-  - week: "9"
+  - week: "10"
     date: "0"
     title: "Automation & Continuous Integration"
     link: "./files/cs375_week10.pdf"
-  - week: "10"
+  - week: "11"
     date: "0"
     title: "Maintenance, Refactoring & Technical Debt"
     link: "./files/cs375_week11.pdf"
@@ -295,7 +295,7 @@ schedule:
         dlink: "./Project/DocumentationFinalReport"
         points: 100
         submission_types: "written"
-  - week: "11"
+  - week: "12"
     date: "0"
     title: "DevOps, Deployment, Reliability & The Role of AI in Software Engineering"
     link: "./files/cs375_week12.pdf"
@@ -305,13 +305,13 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Project/project-testplan.md"
-  - week: "12"
-    date: "0"
-    title: "Project Workshop"
   - week: "13"
     date: "0"
     title: "Project Workshop"
   - week: "14"
+    date: "0"
+    title: "Project Workshop"
+  - week: "15"
     date: "0"
     title: "Project Workshop"
     deliverables:
@@ -323,7 +323,7 @@ schedule:
         dlink: "./Assignments/Participation/SelfAssessment"
         points: 10
         submission_types: "written"
-  - week: "15"
+  - week: "16"
     date: "0"
     reschedule: "5/12/2026"
     title: "Project Workshop"
@@ -338,7 +338,6 @@ schedule:
 university:
   semester: "Spring"
   academicyear: "2025-26"
-
   spring:
     - kname: "Add Deadline"
       kdate: "2026/02/6"
