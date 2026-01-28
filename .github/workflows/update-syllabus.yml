@@ -2,13 +2,22 @@ name: Update ical
 
 on:
   push:
+    branches:
+      - main
+      - master
+      - gh-pages
     paths:
       - "_pages/syllabus.md"
       - "files/*.ics"
   pull_request:
+    branches:
+      - main
+      - master
+      - gh-pages
     paths:
       - "_pages/syllabus.md"
       - "files/*.ics"
+  workflow_dispatch: {}
 
 jobs:
   update_ical:
