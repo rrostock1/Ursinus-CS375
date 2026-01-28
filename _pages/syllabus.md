@@ -207,6 +207,11 @@ schedule:
         dlink: "./Assignments/Overdose"
         points: 100
         submission_types: "written"
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Handed Out"
+        dlink: "./Assignments/StandupReflection"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/assignment-standupreflection.md"
       - dtitle: "Software Project Proposal: Project Proposal Due"
         dlink: "./Project/Proposal"
         points: 100
@@ -220,11 +225,11 @@ schedule:
       - dtitle: "Homework Assignment: git Due"
         dlink: "./Assignments/git"
         points: 100
-      - dtitle: "Homework Assignment: Weekly Standup Reflection Handed Out"
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
         dlink: "./Assignments/StandupReflection"
         points: 10
         submission_types: "written"
-        rubricpath: "_pages/Assignments/assignment-standupreflection.md"
+        rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
   - week: "4"
     date: "0"
     title: "Software Architecture"
@@ -249,6 +254,11 @@ schedule:
     title: "Detailed Design & Design Principles"
     link: "./files/cs375_week6.pdf"
     deliverables:
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
+        dlink: "./Assignments/StandupReflection"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
       - dtitle: "Software Design: Design Report Handed Out"
         dlink: "./Project/Design"
         points: 100
@@ -260,20 +270,36 @@ schedule:
     title: "Industry-Style Design Review"
     link: "./files/cs375_week7.pdf"
     deliverables:
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
+        dlink: "./Assignments/StandupReflection"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
+  - week: "8"
+    date: "0"
+    title: "Implementation & Professional Coding Practices"
+    link: "./files/cs375_week8.pdf"
+    deliverables:
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
+        dlink: "./Assignments/StandupReflection"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
       - dtitle: "Software Design: Design Report Due"
         dlink: "./Project/Design"
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Project/project-design.md"
-  - week: "8"
-    date: "0"
-    title: "Implementation & Professional Coding Practices"
-    link: "./files/cs375_week8.pdf"
   - week: "9"
     date: "0"
     title: "Software Testing Fundamentals"
     link: "./files/cs375_week9.pdf"
     deliverables:
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
+        dlink: "./Assignments/StandupReflection"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
       - dtitle: "Software Test Plan: Test Plan Handed Out"
         dlink: "./Project/TestPlan"
         points: 100
@@ -283,14 +309,27 @@ schedule:
     date: "0"
     title: "Automation & Continuous Integration"
     link: "./files/cs375_week10.pdf"
+    deliverables:
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
+        dlink: "./Assignments/StandupReflection"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
   - week: "11"
     date: "0"
     title: "Maintenance, Refactoring & Technical Debt"
     link: "./files/cs375_week11.pdf"
     deliverables:
-      - dtitle: "Homework Assignment: The Overdose Due"
-        dlink: "./Assignments/overdose"
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
+        dlink: "./Assignments/StandupReflection"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
+      - dtitle: "Software Test Plan: Test Plan Due"
+        dlink: "./Project/TestPlan"
         points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Project/project-testplan.md"
       - dtitle: "Software Documentation: Final Report Handed Out"
         dlink: "./Project/DocumentationFinalReport"
         points: 100
@@ -300,11 +339,14 @@ schedule:
     title: "DevOps, Deployment, Reliability & The Role of AI in Software Engineering"
     link: "./files/cs375_week12.pdf"
     deliverables:
-      - dtitle: "Software Test Plan: Test Plan Due"
-        dlink: "./Project/TestPlan"
-        points: 100
+      - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
+        dlink: "./Assignments/StandupReflection"
+        points: 10
         submission_types: "written"
-        rubricpath: "_pages/Project/project-testplan.md"
+        rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
+      - dtitle: "Homework Assignment: The Overdose Due"
+        dlink: "./Assignments/overdose"
+        points: 100
   - week: "13"
     date: "0"
     title: "Project Workshop"
