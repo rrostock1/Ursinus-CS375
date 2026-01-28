@@ -10,7 +10,6 @@ info:
   course_title: "Software Engineering"
   credit_hours: "4 Semester Hours"
   course_homepage: "https://rrostock1.github.io/Ursinus-CS375/"
-  ical: files/CS375.ics
   course_prerequisites: "CS174"
   course_start_date: "2026/01/26"
   course_end_date: "2026/05/17"
