@@ -111,15 +111,15 @@ grade_breakdown:
   - category: "Software Design"
     weight: "10%"
   - category: "Software Test Plan"
-    weight: "15%"
+    weight: "10%"
   - category: "Software Documentation"
     weight: "20%"
   - category: "Final Presentation"
-    weight: "20%"
+    weight: "15%"
   - category: "Peer Review"
     weight: "10%"
   - category: "Homework Assignments"
-    weight: "10%"
+    weight: "20%"
   - category: "Class Participation and Quizzes"
     weight: "5%"
 
@@ -245,10 +245,6 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Project/project-requirements.md"
-      - dtitle: "Participation: First Self-Assessment Handed Out"
-        dlink: "./Assignments/Participation/SelfAssessment"
-        points: 10
-        submission_types: "written"
   - week: "5"
     date: "0"
     title: "Detailed Design & Design Principles"
@@ -259,6 +255,10 @@ schedule:
         points: 10
         submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
+      - dtitle: "Participation: First Self-Assessment Handed Out"
+        dlink: "./Assignments/Participation/SelfAssessment"
+        points: 10
+        submission_types: "written"
       - dtitle: "Software Design: Design Report Handed Out"
         dlink: "./Project/Design"
         points: 100
@@ -275,6 +275,10 @@ schedule:
         points: 10
         submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
+      - dtitle: "Participation: First Self-Assessment Due"
+        dlink: "./Assignments/Participation/SelfAssessment"
+        points: 10
+        submission_types: "written"
   - week: "8"
     date: "0"
     title: "Implementation & Professional Coding Practices"
@@ -339,6 +343,10 @@ schedule:
     title: "DevOps, Deployment, Reliability & The Role of AI in Software Engineering"
     link: "./files/cs375_week12.pdf"
     deliverables:
+      - dtitle: "Participation: Second Self-Assessment Handed Out"
+        dlink: "./Assignments/Participation/SelfAssessment"
+        points: 10
+        submission_types: "written"
       - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
         dlink: "./Assignments/StandupReflection"
         points: 10
