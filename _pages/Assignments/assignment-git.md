@@ -82,7 +82,7 @@ git config --global user.email "your.name@email.server"
 
 #### Creating and Sharing a git Repository
 
-Follow the steps below to create a github repository.  Your project will present you an ssh link (do not use the https link) under the "Code" button once you create the project.
+Follow the steps below to create a github repository.  Your project will present you an ssh link (or you can use the https link) under the "Code" button once you create the project.
 
 ![Creating a GitHub Repository](../images/github/create-repo-github.gif)
 
@@ -156,5 +156,5 @@ Alternatively, you can type `git checkout --theirs` to use the server copy and o
 2. Commit files to everyone's repositories, including your own.
 3. Create a branch, make some edits, and merge the branch.
 4. Create a conflict, resolve it, and check in the resolved file.
-5. Share the repository with the instructor, who can verify your work using your git commit history.  Submit the git ssh link.
+5. Share the repository with the instructor, who can verify your work using your git commit history.  Submit the link to your github repo.
 6. Create a branch in your repository called gh-pages, and add a file called index.md.  Put some text into that file, commit and push it.  In the settings for your repository, enable github pages, and go to https://your-git-username.github.io/your-github-repository-name.  You should see your content!
