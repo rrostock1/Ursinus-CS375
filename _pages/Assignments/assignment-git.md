@@ -17,6 +17,11 @@ info:
       rtitle: "Using Git with Github by William M. Mongan"
     - rlink: https://github.com/BrynMawr-CS223-S22/git-workshop
       rtitle: "Git Workshop from Bryn Mawr College"
+    - rlink: https://learngitbranching.js.org/
+      rtitle: "Learn Git Branching"
+    - rlink: https://gist.github.com/blackfalcon/8428401
+      rtitle: "Git-workflow vs feature branching"
+
       
 tags:
   - git
