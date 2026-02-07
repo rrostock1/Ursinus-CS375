@@ -104,7 +104,7 @@ objectives:
   - objective: "To develop software that is usable, scalable, and maintainable"
 
 goals:
-  - goal: "To use version control systems such as git to manage software repositories"
+  - goal: "To use version control systems such as Git to manage software repositories"
   - goal: "To design user stories that capture the functional requirements of a software system"
   - goal: "To develop and implement a code test plan with good code and control flow coverage"
   - goal: "To develop and implement a user acceptance test plan"
@@ -179,10 +179,10 @@ schedule:
         submission_types: "written"
   - week: "1"
     date: "0"
-    title: "Version Control with git, Software Development Methodologies, Software Project Brainstorming & Team Formations"
+    title: "Version Control with Git, Software Development Methodologies, Software Project Brainstorming & Team Formations"
     link: "./files/cs375_week2.pdf"
     readings:
-      - rtitle: "Version Control with git"
+      - rtitle: "Version Control with Git"
         rlink: "./files/software-engineering/02-git-oop.pdf"
       - rtitle: "MMM Chapter 16"
         rlink: false
@@ -199,7 +199,7 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Project/project-proposal.md"
-      - dtitle: "Homework Assignment: git Handed Out"
+      - dtitle: "Homework Assignment: Git Handed Out"
         dlink: "./Assignments/git"
         points: 100
   - week: "2"
@@ -212,10 +212,6 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Project/project-requirements.md"
-      - dtitle: "Written Assignement: The Overdose Handed Out"
-        dlink: "./Assignments/Overdose"
-        points: 100
-        submission_types: "written"
       - dtitle: "Homework Assignment: Weekly Standup Reflection Handed Out"
         dlink: "./Assignments/StandupReflection"
         points: 10
@@ -231,9 +227,10 @@ schedule:
     title: "Requirements Validation & Backlogs"
     link: "./files/cs375_week4.pdf"
     deliverables:
-      - dtitle: "Homework Assignment: git Due"
-        dlink: "./Assignments/git"
+      - dtitle: "Written Assignement: The Overdose Handed Out"
+        dlink: "./Assignments/Overdose"
         points: 100
+        submission_types: "written"
       - dtitle: "Homework Assignment: Weekly Standup Reflection Due"
         dlink: "./Assignments/StandupReflection"
         points: 10
@@ -254,6 +251,9 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Project/project-requirements.md"
+      - dtitle: "Homework Assignment: Git Due"
+        dlink: "./Assignments/git"
+        points: 100
   - week: "5"
     date: "0"
     title: "Detailed Design & Design Principles"
