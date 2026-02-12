@@ -70,12 +70,12 @@ instructors:
     title: Adjunct Professor
     email: rrostock@ursinus.edu
     phone: ""
-    office: "Pfahler Hall 101L"
+    office: "Pfahler Hall 217"
     officehours:
       - day: "R"
         starttime: "05:30 PM"
         endtime: "06:45 PM"
-        location: "Pfahler 101L"
+        location: "Pfahler 217"
 
 textbooks:
   - title: "Design Patterns Explained"
