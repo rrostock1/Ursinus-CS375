@@ -150,4 +150,4 @@ Organizers shall view registered attendees.
 
 The following Gantt chart outlines the projected development schedule for the semester.
 
-![Campus Event Registration Gantt Chart](/images/examples/gantt/Campus_Event_Registration_Gantt.png)
+![Campus Event Registration Gantt Chart](/Ursinus-CS375/images/examples/gantt/Campus_Event_Registration_Gantt.png)
