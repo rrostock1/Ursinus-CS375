@@ -1,3 +1,8 @@
+---
+layout: default
+title: Example Requirements
+---
+
 # Campus Event Registration System
 
 **Course:** CS375  
