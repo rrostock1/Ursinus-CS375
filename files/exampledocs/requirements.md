@@ -150,27 +150,4 @@ Organizers shall view registered attendees.
 
 The following Gantt chart outlines the projected development schedule for the semester.
 
-```mermaid
-gantt
-    title Campus Event Registration System Timeline
-    dateFormat  YYYY-MM-DD
-    section Planning
-    Requirements Draft         :done,    r1, 2026-02-01, 7d
-    Stakeholder Review         :active,  r2, after r1, 5d
-
-    section Design
-    System Design              :d1, after r2, 7d
-    UI Wireframes              :d2, after d1, 5d
-
-    section Implementation
-    Backend Development        :i1, after d2, 14d
-    Frontend Development       :i2, after d2, 14d
-
-    section Testing
-    Integration Testing        :t1, after i1, 7d
-    User Testing               :t2, after t1, 5d
-
-    section Deployment
-    Final Revisions            :f1, after t2, 5d
-    Deployment                 :milestone, 2026-04-30, 1d
-```
+![Campus Event Registration Gantt Chart](/images/examples/gantt/Campus_Event_Registration_Gantt.png)
