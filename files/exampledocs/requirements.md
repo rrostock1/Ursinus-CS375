@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Example Requirements
+permalink: /files/exampledocs/requirements/
 ---
 
 # Campus Event Registration System

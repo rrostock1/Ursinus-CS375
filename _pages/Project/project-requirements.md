@@ -36,7 +36,7 @@ info:
       proficient: Reasonable non-Functional requirements are offered for the project
 
   readings:
-    - rlink: "../files/exampledocs/requirements.md"
+    - rlink: "../files/exampledocs/requirements"
       rtitle: "Example requirements document"
 
 tags:
