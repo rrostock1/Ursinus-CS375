@@ -362,7 +362,7 @@ schedule:
         submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
       - dtitle: "Homework Assignment: The Overdose Due"
-        dlink: "./Assignments/overdose"
+        dlink: "./Assignments/Overdose"
         points: 100
   - week: "13"
     date: "0"
