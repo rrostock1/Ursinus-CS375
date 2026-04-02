@@ -313,11 +313,6 @@ schedule:
         points: 10
         submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
-      - dtitle: "Software Test Plan: Test Plan Handed Out"
-        dlink: "./Project/TestPlan"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Project/project-testplan.md"
   - week: "10"
     date: "0"
     title: "Automation & Continuous Integration"
@@ -328,6 +323,11 @@ schedule:
         points: 10
         submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
+      - dtitle: "Software Test Plan: Test Plan Handed Out"
+        dlink: "./Project/TestPlan"
+        points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Project/project-testplan.md"
   - week: "11"
     date: "0"
     title: "Maintenance, Refactoring & Technical Debt"
@@ -338,11 +338,6 @@ schedule:
         points: 10
         submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
-      - dtitle: "Software Test Plan: Test Plan Due"
-        dlink: "./Project/TestPlan"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Project/project-testplan.md"
       - dtitle: "Software Documentation: Final Report Handed Out"
         dlink: "./Project/DocumentationFinalReport"
         points: 100
@@ -361,6 +356,11 @@ schedule:
         points: 10
         submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-Standupreflection.md"
+      - dtitle: "Software Test Plan: Test Plan Due"
+        dlink: "./Project/TestPlan"
+        points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Project/project-testplan.md"
       - dtitle: "Homework Assignment: The Overdose Due"
         dlink: "./Assignments/Overdose"
         points: 100
