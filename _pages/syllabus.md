@@ -73,8 +73,8 @@ instructors:
     office: "Pfahler Hall 217"
     officehours:
       - day: "R"
-        starttime: "05:30 PM"
-        endtime: "06:45 PM"
+        starttime: "06:00 PM"
+        endtime: "07:00 PM"
         location: "Pfahler 217"
 
 textbooks:
